@@ -1,0 +1,53 @@
+.main{
+    border: 2px solid green;
+    height: 500px;
+    width: 500px;
+    margin: 20px auto;
+    padding-left: 50px;
+    background-color: #003053e9;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #1CAC78;
+}
+
+.txt{
+    color: wheat;
+}
+p{
+    color: wheat;
+}
+
+button{
+    width: 50%;
+    height: 40px;
+    margin-top: 30px;
+    border: 2px solid wheat;
+    border-radius: 20px;
+    background-color: #1CAC78;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+button:hover{
+    color: #003153;
+    border: 2px solid #003153;
+}
+
+#password-elone{
+
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    text-align: start;
+    padding: 5px 10px;
+    /* border: 2px solid white; */
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+button #copy{
+ background-color: red;
+}
